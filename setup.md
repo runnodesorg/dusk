@@ -1,8 +1,13 @@
 CÀI ĐẶT DUSK
+
 Links tham khảo:
+
 https://docs.dusk.network/itn/node-running-guide
+
 https://github.com/dusk-network/itn-installer
+
 https://wallet.dusk.network/dashboard
+
 
 [Nếu đã cài đặt Dusk trước mà bị lỗi thì xóa đi]
 * Xóa Dusk:
