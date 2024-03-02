@@ -11,7 +11,7 @@ https://wallet.dusk.network/dashboard
 [Nếu đã cài đặt Dusk trước mà bị lỗi thì xóa đi]
 
 * Xóa Dusk:
-* 
+  
 rm -rf /opt/dusk
 
 * Xóa cache ví:
@@ -51,7 +51,9 @@ sudo nano /opt/dusk/conf/rusk.toml
 -------Thêm 3 dòng  vào file rusk.toml như bên dưới------
 
 [http]
+
 listen = true
+
 listen_address = '0.0.0.0:8085'
 
 ------------------Hết thêm file-------------------------------------
